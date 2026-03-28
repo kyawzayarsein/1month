@@ -1,5 +1,5 @@
 # user.py
-import key # key.so ကို import လုပ်တာပါ
+import key 
 
 if __name__ == "__main__":
     try:
